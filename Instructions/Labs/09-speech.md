@@ -29,7 +29,7 @@ lab:
 
 1. speech.zip 다운로드하려면 선택합니다[](https://aka.ms/mslearn-speech-files)**https://aka.ms/mslearn-speech-files**.****  폴더를 엽니다. 
 
-1. Speech 시작 페이지의 Speech*에서 *실시간 음성 텍스트* 변환을 찾*습니다. 실시간 음성 텍스트** 변환을 선택합니다**.
+1. Speech 시작 페이지의 음성 텍스트 변환 아래에서 *실시간 음성 텍스트** 변환을 찾*습니다. 실시간 음성 텍스트** 변환을 선택합니다**.
 
     ![Speech 시작](media/recognize-synthesize-speech/try-out-speech-to-text.png)
 

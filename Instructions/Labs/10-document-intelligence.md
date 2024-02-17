@@ -36,7 +36,7 @@ Document Intelligence Studio를 열어 두세요.
 이제 가상의 Northwind Traders 소매 회사에 대한 영수증을 분석할 준비가 되었습니다.
 
 1. 샘플 문서를 컴퓨터에 다운로드하려면 선택합니다[](https://aka.ms/mslearn-receipt)**https://aka.ms/mslearn-receipt**.  폴더를 엽니다. 
-1. Form Recognizer Studio를 선택하여 **문서 인텔리전스 스튜디오**** 시작 페이지로 돌아가**고 영수증 **아래에서 사용해 보세요**.
+1. Document Intelligence Studio를 선택하여 **문서 인텔리전스 스튜디오** 시작 페이지로 돌아가**고 영수증 **아래에서 사용해 보세요**.**
 1. 미리 빌드된 드롭다운 목록에서 영수증이 **선택되어 있는지 확인합니다** .
 1. 파일** 찾아보기를 선택하고 **그림을 저장한 폴더로 이동합니다. 영수증 사진을 선택한 다음 **엽니다**. 이미지가 화면 왼쪽에 나타납니다.
 
