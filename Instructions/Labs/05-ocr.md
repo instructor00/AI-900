@@ -61,7 +61,7 @@ Azure AI Services 다중 서비스 리소스와 함께 **Azure AI Vision의 OCR 
     - 검색된 특성**에서 **이미지에 있는 모든 텍스트는 영역, 선 및 단어의 계층 구조로 구성됩니다.
     - 이미지에서 텍스트의 위치는 다음과 같이 경계 상자로 표시됩니다.
 
-    ![윤곽선이 있는 이미지의 텍스트 이미지](media/read-text-computer-vision/text-bounding-boxes.png)
+    ![윤곽선이 있는 이미지의 텍스트 이미지입니다.](media/read-text-computer-vision/advert-bounding-boxes.jpg)
 
 1. 이제 다른 이미지를 사용해 볼 수 있습니다. 파일** 찾아보기를 선택하고 **GitHub에서 파일을 저장한 폴더로 이동합니다. letter.jpg** 선택합니다**.
 
