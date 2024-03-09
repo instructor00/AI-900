@@ -1,5 +1,5 @@
 ---
-title: Microsoft Learn - Azure AI 기본 사항 연습
+title: Microsoft Learn - Azure AI Fundamentals 연습
 permalink: index.html
 layout: home
 ---
