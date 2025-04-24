@@ -1,11 +1,3 @@
-#README
-
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
-
 # Microsoft Azure AI 기본 사항 연습
 
 이 리포지토리에는 Microsoft 공식 교육 과정 연습을 위한 지침과 자산이 포함되어 있어 [Microsoft 인증: Azure AI Fundamentals](https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/) 인증을 지원합니다. 연습은 [Microsoft Learn](https://learn.microsoft.com/training)의 관련 학습 모듈을 보완하도록 설계되었으며 이러한 연습의 <u>하위 집합</u>은 공식 [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/training/courses/ai-900t00) 강사 진행 교육 과정의 실무형 랩으로 구성됩니다.
