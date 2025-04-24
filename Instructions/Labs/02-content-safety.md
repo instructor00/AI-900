@@ -30,7 +30,7 @@ Content Safety Studio를 사용하면 텍스트 및 이미지 콘텐츠를 조�
 
 ![Content Safety Studio의 설정 페이지에서 새 리소스 만들기를 선택할 위치의 스크린샷](./media/content-safety/create-new-resource-from-studio.png)
 
-3. Azure Portal[의 *콘텐츠 만들기 Safety* 페이지에서 ](https://portal.azure.com?azure-portal=true)리소스를 만들려면 몇 가지 세부 정보를 구성해야 합니다. 다음 설정을 사용하여 PuTTY를 구성합니다.
+3. Azure Portal[의 *Content Safety Studio* 페이지에서 ](https://portal.azure.com?azure-portal=true)리소스를 만들려면 몇 가지 세부 정보를 구성해야 합니다. 다음 설정을 사용하여 PuTTY를 구성합니다.
     - **구독**: *자신의 Azure 구독*.
     - **리소스 그룹**: *고유한 이름이 있는 리소스 그룹을 선택하거나 생성*합니다.
     - **지역**: *사용 가능한 지역을 선택합니다. 미국 동부에 있는 경우 "미국 동부 2"를 사용합니다*.
