@@ -1,7 +1,3 @@
----
-lab:
-  title: Azure Machine Learning에서 자동화된 Machine Learning 살펴보기
----
 
 # Azure Machine Learning에서 자동화된 Machine Learning 살펴보기
 
