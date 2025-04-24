@@ -1,15 +1,10 @@
----
-lab:
-  title: Azure OpenAI Service 살펴보기
----
-
 # Azure OpenAI 살펴보기
 
 Azure OpenAI Service는 OpenAI에서 개발한 생성 AI 모델을 Azure 플랫폼에 제공하여 Azure 클라우드 플랫폼에서 제공하는 서비스의 보안, 확장성 및 통합의 이점을 활용하는 강력한 AI 솔루션을 개발할 수 있도록 합니다.
 
-이 연습에서는 Azure OpenAI Service를 살펴보고 이를 사용하여 생성 AI 모델을 배포하고 실험합니다.
+이 실습에서는 Azure OpenAI Service를 살펴보고 이를 사용하여 생성 AI 모델을 배포하고 실험합니다.
 
-이 연습은 약 **25**분 정도 소요됩니다.
+이 실습은 약 **25**분 정도 소요됩니다.
 
 ## 시작하기 전에
 
